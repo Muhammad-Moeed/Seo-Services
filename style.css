@@ -1,0 +1,97 @@
+
+.logo img{
+width: 40px;
+margin-left: 20px;
+}
+.logo span{
+    font-size: 30px;
+}
+.nav-items{
+    margin-left: 500px;
+}
+.nav-item{
+    margin-left: 50px;
+}
+
+.request{
+    margin-left: 300px;
+    border-color: black !important;
+}
+
+    /* Hero Section  */
+
+.hero-btn{
+    background-color: black;
+    color: #ffff;
+}
+
+        /* Company Logos */
+.company img {
+    width: 100px;
+}
+
+    /* Services  */
+.services > h1{
+    background: #B9FF66;
+
+}
+
+.box >p{
+    background: #B9FF66;
+    font-size: 30px;
+}
+.box i{
+    color: #B9FF66;
+    background-color: black;
+    border-radius: 100px;
+    padding: 10px;
+}
+.boxs{
+    border: 2px solid black;
+    border-radius: 20px;
+    padding: 20px 40px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+.boxs2{
+    margin-left: 20px;
+    background-color: #B9FF66;
+}
+.boxs2 p {
+    background-color: #ffff;
+}
+    /*Our  Working */
+
+.working h1{
+    background-color: #B9FF66;
+}
+
+.consul{
+    border: 2px solid black;
+    border-radius: 40px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    padding: 50px;
+    background-color: #B9FF66;
+}
+.consul2{
+    border: 2px solid black;
+    border-radius: 40px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    padding: 50px;
+    
+}
+/* Contact */
+.contact-us span{
+text-align: left;
+}
+
+/* Form  */
+.get{
+    margin-left: 20px;
+}
+.last-btn{
+    background-color: black;
+}
+.last img{
+    height: 500px !important;
+    margin-left: 100px;
+}
